@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\bin\Debug\Task 3 simple menu.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\bin\Debug\Task 3 simple menu.exe
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\bin\Debug\Task 3 simple menu.pdb
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\obj\Debug\Task 3 simple menu.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\obj\Debug\Task 3 simple menu.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\obj\Debug\Task 3 simple menu.exe
+C:\Users\user\source\repos\ITI-Internship\Day5\Task 3 simple menu\Task 3 simple menu\obj\Debug\Task 3 simple menu.pdb

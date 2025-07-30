@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\bin\Debug\Task4-MagicBox.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\bin\Debug\Task4-MagicBox.exe
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\bin\Debug\Task4-MagicBox.pdb
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\obj\Debug\Task4-MagicBox.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\obj\Debug\Task4-MagicBox.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\obj\Debug\Task4-MagicBox.exe
+C:\Users\user\source\repos\ITI-Internship\Day5\Task4-MagicBox\Task4-MagicBox\obj\Debug\Task4-MagicBox.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\bin\Debug\OOP Employee.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\bin\Debug\OOP Employee.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\bin\Debug\OOP Employee.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\obj\Debug\OOP Employee.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\obj\Debug\OOP Employee.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\obj\Debug\OOP Employee.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\OOP Employee\OOP Employee\obj\Debug\OOP Employee.pdb

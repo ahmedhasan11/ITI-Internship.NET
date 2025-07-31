@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Haa5cxLNhc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\OOpAdvancedShapeApp\\OOpAdvancedShapeApp\\OOpAdvancedShapeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

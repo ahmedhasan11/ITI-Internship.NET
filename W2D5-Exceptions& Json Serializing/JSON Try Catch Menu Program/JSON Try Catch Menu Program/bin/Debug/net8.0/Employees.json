@@ -1,0 +1,20 @@
+[
+  {
+    "Employee_ID": 1,
+    "Employee_Name": "ahmed",
+    "Salary": 2000,
+    "Age": 20
+  },
+  {
+    "Employee_ID": 2,
+    "Employee_Name": "mohamed",
+    "Salary": 4000,
+    "Age": 30
+  },
+  {
+    "Employee_ID": 3,
+    "Employee_Name": "mamoud",
+    "Salary": 2000,
+    "Age": 35
+  }
+]

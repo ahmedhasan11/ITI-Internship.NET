@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\bin\Debug\net8.0\JSON Try Catch Menu Program.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\bin\Debug\net8.0\JSON Try Catch Menu Program.deps.json
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\bin\Debug\net8.0\JSON Try Catch Menu Program.runtimeconfig.json
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\bin\Debug\net8.0\JSON Try Catch Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\bin\Debug\net8.0\JSON Try Catch Menu Program.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.AssemblyInfo.cs
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\refint\JSON Try Catch Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\JSON Try Catch Menu Program.genruntimeconfig.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\JSON Try Catch Menu Program\JSON Try Catch Menu Program\obj\Debug\net8.0\ref\JSON Try Catch Menu Program.dll

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\bin\Debug\Menu Program.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\bin\Debug\Menu Program.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\bin\Debug\Menu Program.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\obj\Debug\Menu Program.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\obj\Debug\Menu Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\obj\Debug\Menu Program.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Menu Program\Menu Program\obj\Debug\Menu Program.pdb

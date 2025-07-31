@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\bin\Debug\Operation Equation.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\bin\Debug\Operation Equation.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\bin\Debug\Operation Equation.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\obj\Debug\Operation Equation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\obj\Debug\Operation Equation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\obj\Debug\Operation Equation.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Operation Equation\Operation Equation\obj\Debug\Operation Equation.pdb

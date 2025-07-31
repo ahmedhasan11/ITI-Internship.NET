@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\bin\Debug\Single Dimension Array.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\bin\Debug\Single Dimension Array.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\bin\Debug\Single Dimension Array.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\obj\Debug\Single Dimension Array.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\obj\Debug\Single Dimension Array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\obj\Debug\Single Dimension Array.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Single Dimension Array\Single Dimension Array\obj\Debug\Single Dimension Array.pdb

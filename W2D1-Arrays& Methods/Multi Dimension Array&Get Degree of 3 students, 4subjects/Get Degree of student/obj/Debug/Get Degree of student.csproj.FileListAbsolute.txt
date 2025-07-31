@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\bin\Debug\Get Degree of student.exe.config
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\bin\Debug\Get Degree of student.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\bin\Debug\Get Degree of student.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\obj\Debug\Get Degree of student.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\obj\Debug\Get Degree of student.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\obj\Debug\Get Degree of student.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Get Degree of student\Get Degree of student\obj\Debug\Get Degree of student.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\temprature program\\temprature program\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|solutionrelative:temprature program\\thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\temprature program\\temprature program\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|solutionrelative:temprature program\\heater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\temprature program\\temprature program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|solutionrelative:temprature program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\temprature program\\temprature program\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8DC482-B0CE-4068-93B0-74C634EACA7F}|Temprature Program\\Temprature Program.csproj|solutionrelative:temprature program\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Thermostat.cs",
+              "RelativeDocumentMoniker": "Temprature Program\\Thermostat.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Thermostat.cs*",
+              "RelativeToolTip": "Temprature Program\\Thermostat.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:49:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cooler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Cooler.cs",
+              "RelativeDocumentMoniker": "Temprature Program\\Cooler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Cooler.cs",
+              "RelativeToolTip": "Temprature Program\\Cooler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:49:02.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Heater.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Heater.cs",
+              "RelativeDocumentMoniker": "Temprature Program\\Heater.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Heater.cs",
+              "RelativeToolTip": "Temprature Program\\Heater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:48:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Program.cs",
+              "RelativeDocumentMoniker": "Temprature Program\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Temprature Program\\Temprature Program\\Program.cs",
+              "RelativeToolTip": "Temprature Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:48:09.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

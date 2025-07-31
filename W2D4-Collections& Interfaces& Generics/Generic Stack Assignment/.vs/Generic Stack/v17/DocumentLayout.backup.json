@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Generic Stack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD01A3B-3627-4075-BAF0-B8FC86A0E1A2}|Generic Stack\\Generic Stack.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\generic stack\\generic stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD01A3B-3627-4075-BAF0-B8FC86A0E1A2}|Generic Stack\\Generic Stack.csproj|solutionrelative:generic stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD01A3B-3627-4075-BAF0-B8FC86A0E1A2}|Generic Stack\\Generic Stack.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\generic stack\\generic stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD01A3B-3627-4075-BAF0-B8FC86A0E1A2}|Generic Stack\\Generic Stack.csproj|solutionrelative:generic stack\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Generic Stack\\Generic Stack\\Stack.cs",
+              "RelativeDocumentMoniker": "Generic Stack\\Stack.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Generic Stack\\Generic Stack\\Stack.cs",
+              "RelativeToolTip": "Generic Stack\\Stack.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:56:10.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Generic Stack\\Generic Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Generic Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Generic Stack\\Generic Stack\\Program.cs",
+              "RelativeToolTip": "Generic Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:42:02.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

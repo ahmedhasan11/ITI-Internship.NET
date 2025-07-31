@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\bin\Debug\net8.0\Seacrhing,Sorting Menu Program.exe
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\bin\Debug\net8.0\Seacrhing,Sorting Menu Program.deps.json
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\bin\Debug\net8.0\Seacrhing,Sorting Menu Program.runtimeconfig.json
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\bin\Debug\net8.0\Seacrhing,Sorting Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\bin\Debug\net8.0\Seacrhing,Sorting Menu Program.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.AssemblyInfo.cs
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\refint\Seacrhing,Sorting Menu Program.dll
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.pdb
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\Seacrhing,Sorting Menu Program.genruntimeconfig.cache
+C:\Users\user\source\repos\ITI-Internship\Day6\Seacrhing,Sorting Menu Program\Seacrhing,Sorting Menu Program\obj\Debug\net8.0\ref\Seacrhing,Sorting Menu Program.dll

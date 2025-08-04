@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\data\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\data\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\views\\employees\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\authorization in employee\u0026dept\\mvc d2_employee\u0026deptsystsem\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0EE897-7991-4069-BA4C-381B9283D7F9}|MVC D2_Employee\u0026DeptSystsem\\MVC D2_Employee\u0026DeptSystsem.csproj|solutionrelative:mvc d2_employee\u0026deptsystsem\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:28:36.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:24:35.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-31T11:24:14.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Program.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Program.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:37:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Data\\SystemContext.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Data\\SystemContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Data\\SystemContext.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Data\\SystemContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:37:24.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Models\\Employee.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:33:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:33:16.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\IRepository.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\IRepository.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\IRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T13:29:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T13:25:39.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T13:25:09.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Add.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Add.cshtml",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Views\\Employees\\Add.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T13:24:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVC D2_Employee\u0026DeptSystsem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\Authorization in Employee\u0026Dept\\MVC D2_Employee\u0026DeptSystsem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVC D2_Employee\u0026DeptSystsem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:03:45.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

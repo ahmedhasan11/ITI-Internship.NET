@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MovieAPI\\MovieAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Movie_MVC_ConsumeAPI\\Movie_MVC_ConsumeAPI\\Movie_MVC_ConsumeAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

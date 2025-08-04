@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Movie_MVC_ConsumeAPI.props" />
+</Project>

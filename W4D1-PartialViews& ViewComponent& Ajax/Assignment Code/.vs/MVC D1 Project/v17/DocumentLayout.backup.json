@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\models\\moviestatsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\models\\moviestatsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\viewcomponent\\moviestatsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\viewcomponent\\moviestatsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\views\\shared\\_moviecardpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\views\\shared\\_moviecardpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\views\\shared\\components\\moviestats\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\views\\shared\\components\\moviestats\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\views\\home\\testjson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\views\\home\\testjson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|c:\\users\\user\\source\\repos\\iti-internship\\day6\\mvc d3 partial view\\mvc d1 project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA9CEF2-A8B2-4632-B8D0-30A6B6DD1E3F}|MVC D1 Project\\MVC D1 Project.csproj|solutionrelative:mvc d1 project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviestatsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Models\\MoviestatsViewModel.cs",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Models\\MoviestatsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Models\\MoviestatsViewModel.cs",
+              "RelativeToolTip": "MVC D1 Project\\Models\\MoviestatsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:16:50.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestJson.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Home\\TestJson.cshtml",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Views\\Home\\TestJson.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Home\\TestJson.cshtml",
+              "RelativeToolTip": "MVC D1 Project\\Views\\Home\\TestJson.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T09:13:31.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC D1 Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T10:37:17.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Controllers\\Product.cs",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Controllers\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Controllers\\Product.cs",
+              "RelativeToolTip": "MVC D1 Project\\Controllers\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:43:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\Components\\MovieStats\\Default.cshtml",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Views\\Shared\\Components\\MovieStats\\Default.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\Components\\MovieStats\\Default.cshtml",
+              "RelativeToolTip": "MVC D1 Project\\Views\\Shared\\Components\\MovieStats\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T10:33:07.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieStatsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\ViewComponent\\MovieStatsViewComponent.cs",
+              "RelativeDocumentMoniker": "MVC D1 Project\\ViewComponent\\MovieStatsViewComponent.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\ViewComponent\\MovieStatsViewComponent.cs",
+              "RelativeToolTip": "MVC D1 Project\\ViewComponent\\MovieStatsViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:11:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC D1 Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:37:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MovieCardPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\_MovieCardPartialView.cshtml",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Views\\Shared\\_MovieCardPartialView.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Shared\\_MovieCardPartialView.cshtml",
+              "RelativeToolTip": "MVC D1 Project\\Views\\Shared\\_MovieCardPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T10:37:17.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC D1 Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T10:38:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Program.cs",
+              "RelativeDocumentMoniker": "MVC D1 Project\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ITI-Internship\\Day6\\MVC D3 partial view\\MVC D1 Project\\Program.cs",
+              "RelativeToolTip": "MVC D1 Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:43:59.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

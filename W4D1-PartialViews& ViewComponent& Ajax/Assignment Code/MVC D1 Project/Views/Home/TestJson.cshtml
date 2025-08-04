@@ -1,0 +1,35 @@
+﻿<h2>Test JSON Fetch from /Product/GetProductsJson</h2>
+
+<button  id="loadJsonBtn" class="btn-primary">Load Data</button>
+
+<pre id="jsonContainer" class="border p-3 bg-light" style="white-space: pre-wrap;"></pre>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const btn = document.getElementById('loadJsonBtn');
+        if (!btn) {
+            console.error('Button not found!');
+            return;
+        }
+
+        btn.addEventListener('click', () => {
+            fetch('/Product/GetProductsJson')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const formattedJson = JSON.stringify(data, null, 2);
+                    document.getElementById('jsonContainer').textContent = formattedJson;
+                })
+                .catch(error => {
+                    console.error('Error loading JSON:', error);
+                    document.getElementById('jsonContainer').innerHTML =
+                        `<div class="text-danger">Error loading data: ${error.message}</div>`;
+                });
+        });
+    });
+</script>
